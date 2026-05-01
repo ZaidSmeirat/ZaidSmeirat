@@ -9,10 +9,10 @@
 
 ## 🧠 About Me
 
-💻 Full Stack Developer with strong experience in building modern web applications  
-🚀 متخصص في React, Next.js و Node.js  
-🧩 شغلي يشمل CMS خصوصاً Drupal + أنظمة production حقيقية  
-⚡ بحب أحل المشاكل المعقدة وأبني systems scalable  
+💻 Full Stack Developer with strong experience in building modern web applications
+🚀 Specialized in React, Next.js, and Node.js
+🧩 My work includes CMS platforms, especially Drupal, along with real-world production systems
+⚡ I enjoy solving complex problems and building scalable systems
 
 ---
 
